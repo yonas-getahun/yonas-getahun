@@ -1,7 +1,7 @@
 # 👋 Hello World, I'm Yonas Getahun!
  <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=yonas-getahun&color=dc143c&style=for-the-badge" alt="indiecodermm" />
-<a href="https://github.com/bernabasy?tab=repositories&sort=stargazers"><img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/yonas-getahun?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+<a href="https://github.com/yonas-getahun?tab=repositories&sort=stargazers"><img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/yonas-getahun?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
  <a href="https://github.com/yonas-getahun?tab=followers"><img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/yonas-getahun?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
 <p>
