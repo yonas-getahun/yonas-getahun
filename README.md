@@ -5,13 +5,13 @@
  <a href="https://github.com/yonas-getahun?tab=followers"><img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/yonas-getahun?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
 <p>
-Welcome to my GitHub profile! I'm a passionate Software Engineer with a love for Technology, Out here as a Full-Stack Developer.
+Welcome to my GitHub profile! I'm a passionate Software Engineer with a love for Technology, Out here as a Full-Stack Mobile and Web Developer.
 Here's a little about me and what you'll find in this repository.
   </p>
   
 🚀 About Me
 <ul>
-  <li>💻 I’m currently working as a full-Stack developer </li>
+  <li>💻 I’m currently working as a full-Stack mobile and web developer </li>
   <li>🔭 I'm always working on personal projects to sharpen my skills and explore new ideas. </li>
   <li>💬 Feel free to reach out to me for collaboration, discussions, or just to say hi! </li>
 
